@@ -1,2 +1,2 @@
 # Blog App
-A sample Blog App with dockerized microservice architecture and Kubernetes integration
+A sample React Blog App with dockerized microservice architecture and Kubernetes integration.
